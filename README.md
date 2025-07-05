@@ -1,20 +1,3 @@
-
-
-<!--
-**Skeshav-sasanapuri/Skeshav-sasanapuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
  # Hello World! I'm Keshav Sasanapuri 👋
 
  🎓 MS Computer Science graduate from RIT | 👨‍💻 Software Engineer | 🤖 Machine Learning for DARPA & NASA-funded Research | 🧠 Computer Vision Engineer | Seeking New Grad Roles
@@ -30,14 +13,17 @@ My hobbies include Archery 🏹, Racing 🚗, DIY Projects 🛠️, and eating E
 ## 🧭 What am I up to right now?
 
 - 🔬 I'm collaborating with Dr. Grover A. Swartzlander at RIT on publishing a NASA-funded research. We’re designing a liquid crystal structure for potential use in solar sails by programming light propagation simulations and analyzing their optical properties using the RCWA (Rigorous Coupled-Wave Analysis) method.
-- 🌱 I’m currently learning about AI agents, AWS, and Containerization
+- 🌱 I’m currently learning about AI agents, AWS, Containerization, and React
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/keshav-sasanapuri/) | Email: keshavsasanapuri@gmail.com
 
-<div align="left">
-  <img src="https://streak-stats.demolab.com?user=Skeshav-sasanapuri&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=Skeshav-sasanapuri&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Skeshav-sasanapuri&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+<br/>
+<p align="left">
+<a href="https://github.com/Skeshav-sasanapuri">
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Skeshav-sasanapuri&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=Skeshav-sasanapuri&theme=dracula" alt="Skeshav-sasanapuri" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Skeshav-sasanapuri&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+ </a>
+</p>
 
 ###
 
@@ -96,10 +82,6 @@ My hobbies include Archery 🏹, Racing 🚗, DIY Projects 🛠️, and eating E
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/Skeshav-sasanapuri/count.svg?"  />
-</div>
-
-###
   <img src="https://profile-counter.glitch.me/Skeshav-sasanapuri/count.svg?"  />
 </div>
 
