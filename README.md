@@ -15,9 +15,23 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- ## Hello World! I'm Keshav Sasanapuri 👋
+ # Hello World! I'm Keshav Sasanapuri 👋
 
- 🎓 Graduate Computer Science student at RIT | 👨‍💻 Software Engineer | 🧠 Computer Vision Engineer | Machine Learning for DARPA & NASA-funded Research | Seeking New Grad Roles
+ 🎓 MS Computer Science graduate from RIT | 👨‍💻 Software Engineer | 🤖 Machine Learning for DARPA & NASA-funded Research | 🧠 Computer Vision Engineer | Seeking New Grad Roles
+
+ if you are a recruiter, hire me! :)
+
+ ## 💡 About Me
+
+I'm a passionate builder with a BS in Mathematics, Statistics, Economics and a MS in Computer Science. I love brainstorming, programming, and pizza.
+
+My hobbies include Archery 🏹, Racing 🚗, DIY Projects 🛠️, and eating EVERYTHING at All-You-Can-Eat-Sushi 🍣
+
+## 🧭 What am I up to right now?
+
+- 🔬 I'm collaborating with Dr. Grover A. Swartzlander at RIT on publishing a NASA-funded research. We’re designing a liquid crystal structure for potential use in solar sails by programming light propagation simulations and analyzing their optical properties using the RCWA (Rigorous Coupled-Wave Analysis) method.
+- 🌱 I’m currently learning about AI agents, AWS, and Containerization
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/keshav-sasanapuri/) | Email: keshavsasanapuri@gmail.com
 
 <div align="left">
   <img src="https://streak-stats.demolab.com?user=Skeshav-sasanapuri&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
