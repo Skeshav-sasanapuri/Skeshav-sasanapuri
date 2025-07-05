@@ -71,7 +71,7 @@ Here are some ideas to get you started:
 
 ###
 
-<img src="https://raw.githubusercontent.com/Skeshav-sasanapuri/Skeshav-sasanapuri/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Skeshav-sasanapuri/Skeshav-sasanapuri/output/github-snake-dark.svg" alt="Snake animation" />
 
 ###
 
