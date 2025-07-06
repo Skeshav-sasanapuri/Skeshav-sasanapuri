@@ -12,7 +12,7 @@ My hobbies include Archery 🏹, Racing 🚗, DIY Projects 🛠️, and eating E
 
 ## 🧭 What am I up to right now?
 
-- 🔬 I'm collaborating with Dr. Grover A. Swartzlander at RIT on publishing a NASA-funded research. We’re designing a liquid crystal structure for potential use in solar sails by programming light propagation simulations and analyzing their optical properties using the RCWA (Rigorous Coupled-Wave Analysis) method.
+- 🔬 I'm collaborating with Dr. Grover A. Swartzlander to publish a NASA-funded research. We’re designing and simulating a liquid crystal structure for potential use in solar sails.
 - 🌱 I’m currently learning about AI agents, AWS, Containerization, and React
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/keshav-sasanapuri/) | Email: keshavsasanapuri@gmail.com
 
