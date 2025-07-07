@@ -19,9 +19,9 @@ My hobbies include Archery 🏹, Racing 🚗, DIY Projects 🛠️, and eating E
 <br/>
 <p align="left">
 <a href="https://github.com/Skeshav-sasanapuri">
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Skeshav-sasanapuri&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=Skeshav-sasanapuri&theme=dracula" alt="Skeshav-sasanapuri" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Skeshav-sasanapuri&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Skeshav-sasanapuri&show_icons=true&disable_animations=false&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=Skeshav-sasanapuri&disable_animations=false&theme=dracula" alt="Skeshav-sasanapuri" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Skeshav-sasanapuri&hide_title=false&layout=compact&card_width=320&langs_count=5&disable_animations=false&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
  </a>
 </p>
 
