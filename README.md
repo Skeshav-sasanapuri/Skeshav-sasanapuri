@@ -1,6 +1,6 @@
  # Hello World! I'm Keshav Sasanapuri 👋
 
- 🎓 MS Computer Science graduate from RIT | 👨‍💻 Software Engineer | 🤖 Machine Learning for DARPA & NASA-funded Research | 🧠 Computer Vision Engineer | Seeking exciting oppurtunities to apply my skills
+ 🎓 PhD Imaging Science | MS Computer Science graduate from RIT | 👨‍💻 Software Engineer | 🤖 Machine Learning for DARPA & NASA-funded Research | 🧠 Computer Vision Engineer | Seeking exciting oppurtunities to apply my skills
 
  if you are a recruiter, hire me! :)
 
